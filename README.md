@@ -97,7 +97,7 @@ Ficam aqui alguns recursos:
 
 * Desafios:
   * [CodingBat](https://codingbat.com/java)
-  * [Code Exercises](https://code-exercises.com/]
+  * [Code Exercises](https://code-exercises.com/)
 
 * Outros recursos:
   * [Code Academy](https://www.codecademy.com/learn/learn-java)
