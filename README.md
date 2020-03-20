@@ -11,6 +11,7 @@
    4. [Ciclos](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Ciclos.md)
    5. [Arrays](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Arrays.md)
    6. [Classes](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Classes.md)
+   7. [Programação Orientada a Objectos](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos.md)
    7. [Recursos](#Recursos)
    
 ## O que não vamos cobrir
@@ -43,17 +44,15 @@
 6.  O workshop é uma ferramenta que pode e deve ser usada por todos para agilizar a aprendizagem do Java, no entanto, o workshop **não é um substituto às aulas**
 
 ## O que vamos cobrir:
-*  Documentação (básico, @param, @return,...)
-*  Arrays
-*  Ciclos (while, for, do while, foreach)
-*  Controlo de fluxo (if, if else, if else if, switch, operador ternário)
+*  Documentação (básico, @param, @return,...) 
+*  Arrays **done**
+*  Ciclos (while, for, do while, foreach)  **done**
+*  Controlo de fluxo (if, if else, if else if, switch, operador ternário) **done**
 *  Modificadores de controlo de acesso (public, private, protected)
-*  Métodos
+*  Métodos **done**
 *  Recursão
-*  Objectos e classes (construtores, criação, acesso, pacotes, importações)
-*  Instanciamento (static, this, new)
-*  Classes internas
-*  Exceções (try catch finally)
+*  Objectos e classes (construtores, criação, acesso, importações) **done**
+*  Instanciamento (static, this, new) **done**
 *  Programação orientada a objectos:
    *  Herança (extends, super)
    *  Polimorfismo
@@ -68,6 +67,7 @@
    *  Hashtables
    *  Conjuntos
    *  Incorporação dos conceitos abordados na implementação de uma aplicação java (um RPG por exemplo)
+   *  Exceções (try,catch,finally -- se houver tempo)
    *  File I/O (se houver tempo e se conseguir arranjar bons exemplos)
    *  GUI (também é pouco provável com o tempo que temos)
 
