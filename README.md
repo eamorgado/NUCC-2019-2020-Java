@@ -1,12 +1,15 @@
 # NUCC - Workshop de Java (2019/2020)
-**Objetivo**: O objetivo deste workshop é fornecer uma ferramenta na aprendizagem da LP Java, irá incidir em conceitos menos introdutórios na linguagem.
+   **Objetivo**: O objetivo deste workshop é fornecer uma ferramenta na aprendizagem da LP Java, irá incidir em conceitos menos introdutórios na linguagem.
 
 ## Contúdo:
    1. [O que não vamos cobrir](#O-que-não-vamos-cobrir)
+   
        1.1 [Notas adicionais](#Nota)
    
+   2. [O que vamos cobrir](#O-que-vamos-cobrir)
+   
 ## O que não vamos cobrir
-Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre, não vão ser cobertos os seguintes tópicos:
+   Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre, não vão ser cobertos os seguintes tópicos:
 *    História do Java
 *    Instalação do Java
 *    Compilação/Execução de código Java
@@ -48,6 +51,20 @@ Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre
    *  Abstração
    *  Encapsulamento
    *  Interfaces (implements)
+*  Estruturas de dados:
+   *  Listas
+   *  Filas
+   *  Pilhas
+   *  Dicionários
+   *  Hashtables
+   *  Conjuntos
+   *  Incorporação dos conceitos abordados na implementação de uma aplicação java (um RPG por exemplo)
+   *  File I/O (se houver tempo e se conseguir arranjar bons exemplos)
+   *  GUI (também é pouco provável com o tempo que temos)
+
+
+## Recursos
+   Tudo o que precisas já se encontra online, basta pesquisar, o Google é o vosso melhor amigo. Qualquer dúvida que tenham certamente alguém já a teve, basta pesquisar, utilizem o Stack Overflow para ver questões/soluções ou mesmo colocar as vossas.
 
 
 
