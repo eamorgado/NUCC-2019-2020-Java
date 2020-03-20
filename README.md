@@ -8,7 +8,7 @@
        1.1 [Notas adicionais](#Nota)     
    2. [O que vamos cobrir](#O-que-vamos-cobrir) 
    3. [Controlo de Fluxo](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Controlo%20de%20Fluxo.md)
-   4. [Arrays](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Arrays.md)
+   4. [Arrays e Strings](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Arrays%20e%20Strings.md)
    5. [Classes](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Classes.md)
    6. [Recursos](#Recursos)
    
