@@ -218,7 +218,7 @@ public class TestaAluno{
 
 
 ## Conceitos
-| Conceitos       | Resumo                                                    |
+| Conceitos       | Descrição                                                 |
 | --------------- |:---------------------------------------------------------:|
 | método          | Mesmo que uma função mas para classes                     |
 | referência      | Apontador para espaço de memória                          |
