@@ -70,5 +70,42 @@ public class TestaAluno{
 ```
 
 ### Overload
-Se não for criado nenhum construtor o Java gera um padrão sem qualquer argumento (caso seja criado um, o padrão é descartado)
+Se não for criado nenhum construtor o Java gera um padrão sem qualquer argumento (caso seja criado um, o padrão é descartado).
 
+Tal como referido anteriormente, o Java permite a existência de múltiplos construtores numa classe, isto é possível através de **overload** de métodos, ou seja, métodos com o mesmo nome mas uma lista de parâmetros diferente.
+
+exemplo:
+```Java
+class Aluno{
+    String nome;
+    String numero_mecanografico;
+
+    //Construtor padrão (sem argumentos)
+    Aluno(){
+        nome = "NUCC";
+        numero_mecanografico = "up123456789";
+    }
+
+    //Construtor que recebe parâmetros do aluno e coloca nos atributos
+    Aluno(String nome_aluno, String numero){
+        nome = nome_aluno;
+        numero_mecanografico = numero
+    }
+
+    //Método getters para nome e numero
+    String getNome(){return nome;}
+    String getNumero(){return numero_mecanografico;}
+}
+```
+```Java
+public class TestaAluno{
+    public static void main(String[] args){
+        Aluno padrao = new Aluno();
+        Aluno novo = new Aluno("peepee poopoo","399")
+
+        System.out.println("Padrão: ["+padrao.getNome()+","padrao.getNumero()+"]")); 
+        
+        System.out.println("Overloaded: ["+novo.getNome()+","novo.getNumero()+"]"));
+    }
+}
+```
