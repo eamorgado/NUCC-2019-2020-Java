@@ -6,6 +6,8 @@
 4.  [Overload](#Overload) 
 5.  [Comparação de objetos](#Comparação-de-objetos)
 6.  [Variáveis e métodos static](#Variáveis-e-métodos-static) 
+7.  [Conceitos](#Conceitos)
+
 
 ## Introdução:
 &nbsp;&nbsp;&nbsp;&nbsp;Em java não existem tipos de dados "básicos", todos os tipos são **classes**, uma classe é uma estrutura de dados, onde são definidos certos **métodos/funções**, por exemplo, no tipo de dados String, existem métodos como String.charAt(int), isto é possível pois o tipo de dados String é definido como uma classe. Uma variável do tipo String é nada mais nada menos que uma **referência**/apontador para o endereço de memória do tipo.
@@ -73,7 +75,7 @@ public class TestaAluno{
 
 &nbsp;&nbsp;&nbsp;&nbsp;Tal como referido anteriormente, o Java permite a existência de múltiplos construtores numa classe, isto é possível através de **overload** de métodos, ou seja, métodos com o mesmo nome mas uma lista de parâmetros diferente.
 
-exemplo:
+Exemplo:
 ```Java
 class Aluno{
     String nome;
@@ -212,4 +214,18 @@ public class TestaAluno{
     }
 }
 ```
+
+
+## Conceitos
+| Conceitos       | Resumo                                                    |
+| --------------- |:---------------------------------------------------------:|
+| método          | Mesmo que uma função mas para classes                     |
+| referência      | Apontador para espaço de memória                          |
+| instância       | Uma referência a uma classe                               |
+| objeto          | Mesmo que instância                                       |
+| atributo        | Uma variável de classe                                    |
+| new             | Operador que gera novas instâncias                        |
+| construtor      | Método base de classe, chamado com new                    |
+| overload        | Métodos com mesmo nome mas argumentos diferentes          |
+| static          | Torna método/atributo acessível a todos objetos da classe |
 
