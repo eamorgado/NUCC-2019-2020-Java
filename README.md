@@ -3,9 +3,8 @@
 
 ## Contúdo:
    1. [O que não vamos cobrir](#O-que-não-vamos-cobrir)
-
-
-   1.1 [Notas adicionais](#Nota)
+       1.1 [Notas adicionais](#Nota)
+   
 ## O que não vamos cobrir
 Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre, não vão ser cobertos os seguintes tópicos:
 *    História do Java
@@ -21,3 +20,34 @@ Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre
 *    I/O (Scanner)
 
 ### Nota
+1. Todos estes temas, para alunos que estejam a frequentar Estruturas de Dados e Arquitetura de Software já foram abordados tanto em aulas teóricas como práticas
+2.Caso desejem abordar estes temas, todos os links de tutoriais na secção de recursos apresentam explicações
+3. Quem não tiver máquina pessoal com java instalado pode utilizar as máquinas no laboratório
+4. Quem quiser trazer uma máquina pessoal, o tema da instalação não será abordado, como tal, recomenda-se que já esteja instalado o JDK na máquina (na secção de recursos podem encontrar tutoriais para o mesmo)
+5. **Para quem vem ao workshop sem qualquer conhecimento:**
+   5.1. É recomendado seguir ou pelo menos ver um pouco dos tutoriais de forma a tornar a etapa inicial do workshop mais fácil
+   5.2. Será mais difícil acompanhar o workshop, no entanto não é impossível
+   5.3. Os temas introdutórios são em muitos dos casos similares a outras linguagens, nomeadamente C e C++, sendo o seu conteúdo em parte, transferível
+6. O workshop é uma ferramenta que pode e deve ser usada por todos para agilizar a aprendizagem do Java, no entanto, o workshop **não é um substituto às aulas**
+
+## O que vamos cobrir:
+*  Documentação (básico, @param, @return,...)
+*  Arrays
+*  Ciclos (while, for, do while, foreach)
+*  Controlo de fluxo (if, if else, if else if, switch, operador ternário)
+*  Modificadores de controlo de acesso (public, private, protected)
+*  Métodos
+*  Recursão
+*  Objectos e classes (construtores, criação, acesso, pacotes, importações)
+*  Instanciamento (static, this, new)
+*  Classes internas
+*  Exceções (try catch finally)
+*  Programação orientada a objectos:
+   *  Herança (extends, super)
+   *  Polimorfismo
+   *  Abstração
+   *  Encapsulamento
+   *  Interfaces (implements)
+
+
+
