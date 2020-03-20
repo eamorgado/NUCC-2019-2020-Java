@@ -5,6 +5,7 @@
    1. [O que não vamos cobrir](#O-que-não-vamos-cobrir)  
        1.1 [Notas adicionais](#Nota)     
    2. [O que vamos cobrir](#O-que-vamos-cobrir)  
+   3. [Classes](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Docs-Notas/Classes.md)
    
 ## O que não vamos cobrir
 &nbsp;&nbsp;&nbsp;&nbsp;Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre, não vão ser cobertos os seguintes tópicos:
