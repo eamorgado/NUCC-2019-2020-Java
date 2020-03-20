@@ -2,6 +2,7 @@
 [Outline](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/README.md) -> Arrays e Strings
 ## Conteúdo
 1.  [Array](#Array)
+    1.1.  [Sintaxe](#Sintaxe)
 
 ## Array
 &nbsp;&nbsp;&nbsp;&nbsp;Um array é um objeto que guarda um conjunto de valores **de um mesmo tipo** em posições **contíguas** de memória, esses valores são localizados nessas posições por um **índice** >= 0.
@@ -9,6 +10,7 @@
   <img alt="Exemplo de array de 7 posições em memória"src="https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Assets/images/array.png">
 </p>
 
+### Sintaxe
 &nbsp;&nbsp;&nbsp;&nbsp;Apresentam a seguinte síntaxe (exemplo para tipo de dados int, mas funciona com qualquer tipo de dados):
 ```Java
 int[] valores;
