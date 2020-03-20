@@ -1,22 +1,22 @@
 # NUCC - Workshop de Java (2019/2020) -- Arrays
-[Outline](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/README.md) -> Arrays e Strings
+[Outline](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/README.md) -> Arrays
 ## Conteúdo
-1.  [Array](#Array)  
-    1.1.  [Sintaxe](#Sintaxe)  
-    1.2.  [Aceder Valores](#Aceder-Valores)  
-    1.3.  [Tamanho](#Tamanho)  
-    1.4.  [Array Multidimensional](#Array-Multidimensional) 
-    1.5.  [Processar Arrays](#Processar-Arrays)
-    1.6.  [Foreach](#Foreach) 
-    1.7.  [Arrays e Funções](#Arrays-e-Funções)
+1.  [Introdução](#Introdução)  
+2.  [Sintaxe](#Sintaxe)  
+3.  [Aceder Valores](#Aceder-Valores)  
+4.  [Tamanho](#Tamanho)  
+5.  [Array Multidimensional](#Array-Multidimensional)  
+6.  [Processar Arrays](#Processar-Arrays)  
+7.  [Foreach](#Foreach)   
+8.  [Arrays e Funções](#Arrays-e-Funções) 
 
-## Array
+## Introdução
 &nbsp;&nbsp;&nbsp;&nbsp;Um array é um objeto que guarda um conjunto de valores **de um mesmo tipo** em posições **contíguas** de memória, esses valores são localizados nessas posições por um **índice** >= 0.
 <p align="center">
   <img alt="Exemplo de array de 7 posições em memória" width="50%" height="50%" src="https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Assets/images/array.png">
 </p>
 
-### Sintaxe
+## Sintaxe
 &nbsp;&nbsp;&nbsp;&nbsp;Apresentam a seguinte síntaxe (exemplo para tipo de dados int, mas funciona com qualquer tipo de dados):
 ```Java
 int[] valores;
@@ -32,7 +32,7 @@ int a[] = {1, 2, 3, 4};
 ```
 Neste caso, o compilador gera um array de tamanho 4 e inicializa cada posição com a sequência de valores 1, 2, 3 e 4 respetivamente.
 
-### Aceder Valores
+## Aceder Valores
 &nbsp;&nbsp;&nbsp;&nbsp;Os elementos de um array podem ser acedidos pelo nome da variável e um índice
 ```Java
 int primeiro_valor = valores[0];
@@ -40,13 +40,13 @@ int primeiro_valor = valores[0];
 
 &nbsp;&nbsp;&nbsp;&nbsp;Após ser gerado o array com tamanho fixo, não é possível aumentar o seu tamanho, ou seja, se o array tiver tamanho 4 (new int[4]) se tentarmos aceder à posição 5 (array[5]) isto irá gerar um erro, **ArrayIndexOutOfBounds**.
 
-### Tamanho
+## Tamanho
 &nbsp;&nbsp;&nbsp;&nbsp;Podemos obter o tamanho máximo do array, caso seja desconhecido, sem ter que iterar pelos seus valores, através do atributo **length**.
 ```Java
 int tamanho = array.length;
 ```
 
-### Array Multidimensional
+## Array Multidimensional
 &nbsp;&nbsp;&nbsp;&nbsp;Podemos gerar arrays com n dimensões, por exemplo:
 ```Java
 int[][] v = new int[4][4]; //array/matriz 4x4
@@ -56,7 +56,7 @@ int[][] v = new int[4][4]; //array/matriz 4x4
 </p>
 
 
-### Processar Arrays
+## Processar Arrays
 &nbsp;&nbsp;&nbsp;&nbsp;Utilizando os conhecimentos de ciclos em Java, podemos utilizar ciclos, nomeadamente **for** e **foreach** para percorrer os valores do array.
 
 Por exemplo, imprimir os valores pode ser feito da seguinte forma:
@@ -76,7 +76,7 @@ public class Test{
 }
 ```
 
-### Foreach 
+## Foreach 
 &nbsp;&nbsp;&nbsp;&nbsp;Este ciclo, foreach ou *enhanced for* permite a deslocação num array sem indexação, este ciclo funciona com qualquer tipo de dados iterável e tem sintaxe:
 
 ```Java
@@ -101,7 +101,7 @@ void percorreMatrix(int[][] m){
 }
 ```
 
-### Arrays e Funções
+## Arrays e Funções
 &nbsp;&nbsp;&nbsp;&nbsp;Tal como qualquer tipo de dados podemos passar arrays a funções e retornar arrays
 
 Exemplo:
@@ -119,4 +119,4 @@ public class Test{
     System.out.println();
   }
 }
-```
+``` 
