@@ -48,4 +48,7 @@ int tamanho = array.length;
 ```Java
 int[][] v = new int[4][4]; //array/matriz 4x4
 ```
+<p align="center">
+  <img alt="Exemplos de multidimensões"src="https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Assets/images/arr-dim.jpg">
+</p>
 
