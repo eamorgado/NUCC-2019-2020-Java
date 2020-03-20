@@ -2,10 +2,10 @@
 [Outline](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/README.md) -> Arrays e Strings
 ## Conteúdo
 1.  [Array](#Array)  
-    1.1.  [Sintaxe](#Sintaxe)
-    1.2.  [Aceder Valores](#Aceder-Valores)
-    1.3.  [Tamanho](#Tamanho)
-    1.4.  [Array Multidimensional](#Array-Multidimensional)
+    1.1.  [Sintaxe](#Sintaxe)  
+    1.2.  [Aceder Valores](#Aceder-Valores)  
+    1.3.  [Tamanho](#Tamanho)  
+    1.4.  [Array Multidimensional](#Array-Multidimensional)  
 
 ## Array
 &nbsp;&nbsp;&nbsp;&nbsp;Um array é um objeto que guarda um conjunto de valores **de um mesmo tipo** em posições **contíguas** de memória, esses valores são localizados nessas posições por um **índice** >= 0.
