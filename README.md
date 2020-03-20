@@ -53,12 +53,7 @@
 *  Recursão
 *  Objectos e classes (construtores, criação, acesso, importações) **done**
 *  Instanciamento (static, this, new) **done**
-*  Programação orientada a objectos:
-   *  Herança (extends, super)
-   *  Polimorfismo
-   *  Abstração
-   *  Encapsulamento
-   *  Interfaces (implements)
+*  Programação orientada a objectos
 *  Estruturas de dados:
    *  Listas
    *  Filas
@@ -66,10 +61,10 @@
    *  Dicionários
    *  Hashtables
    *  Conjuntos
-   *  Incorporação dos conceitos abordados na implementação de uma aplicação java (um RPG por exemplo)
-   *  Exceções (try,catch,finally -- se houver tempo)
-   *  File I/O (se houver tempo e se conseguir arranjar bons exemplos)
-   *  GUI (também é pouco provável com o tempo que temos)
+*  Incorporação dos conceitos abordados na implementação de uma aplicação java (um RPG por exemplo)
+*  Exceções (try,catch,finally -- se houver tempo)
+*  File I/O (se houver tempo e se conseguir arranjar bons exemplos)
+*  GUI (também é pouco provável com o tempo que temos)
 
 
 ## Recursos
