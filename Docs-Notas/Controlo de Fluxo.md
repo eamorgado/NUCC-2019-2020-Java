@@ -5,4 +5,6 @@
 ## Introdução
 &nbsp;&nbsp;&nbsp;&nbsp;Estruturas para controlo de decisão/fluxo, apresentam uma ou mais condições a serem testadas pelo programa e uma ou múltiplas instruções a serem executadas **caso a condição seja verdadeira**
 
-![Diagrama de fluxo para controle](https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Assets/images/control-flow.jfif)
+<p align="center">
+  <img alt="Diagrama de fluxo para controlo"src="https://github.com/eamorgado/NUCC-2019-2020-Java/blob/master/Assets/images/control-flow.jfif">
+</p>
