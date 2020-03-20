@@ -7,6 +7,7 @@
 4.  [If else if (nested)](#If-else-if-(nested))  
 5.  [Switch](#Switch)  
 6.  [Operador ternário (?)](#Operador-ternário-(?))
+7.  [Conceitos](#Conceitos)
 
 ## Introdução
 &nbsp;&nbsp;&nbsp;&nbsp;Estruturas para controlo de decisão/fluxo, apresentam uma ou mais condições a serem testadas pelo programa e uma ou múltiplas instruções a serem executadas **caso a condição seja verdadeira**
