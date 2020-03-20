@@ -3,7 +3,7 @@
 
 ## Conteúdo
 1.  [Introdução](#Introdução)
-2.  [Tipos de Ciclos](#Tipos de Ciclos)
+2.  [Tipos de Ciclos](#Tipos-de-Ciclos)
 3.  [For](#For)
 4.  [While](#While)
 5.  [Do While](#Do-While)
@@ -99,7 +99,7 @@ void percorreMatrix(int[][] m){
 ## Instruções de controlo de ciclo
 
 O java fornece os seguintes tipos:  
-| Tipos     | Descrição                                                                 |
-|-----------|:-------------------------------------------------------------------------:|
-| break     |Termina o ciclo e transfere execução para próxima instrução fora do ciclo  |
-| continue  |Salta para próxima iteração, ignorando instruções seguintes no processo    |
+| Tipos         | Descrição                                                                 |
+|---------------|:-------------------------------------------------------------------------:|
+| **break**     |Termina o ciclo e transfere execução para próxima instrução fora do ciclo  |
+| **continue**  |Salta para próxima iteração, ignorando instruções seguintes no processo    |
