@@ -66,5 +66,45 @@
 ## Recursos
    Tudo o que precisas já se encontra online, basta pesquisar, o Google é o vosso melhor amigo. Qualquer dúvida que tenham certamente alguém já a teve, basta pesquisar, utilizem o Stack Overflow para ver questões/soluções ou mesmo colocar as vossas.
 
+Ficam aqui alguns recursos:
+* Documentação: https://docs.oracle.com/javase/8/docs/api/
+* Instalação de Java:
+  * Guia oficial da oracle: https://java.com/en/download/help/download_options.xml
+  * Ubuntu: 
+    * https://www.youtube.com/watch?v=_Or2KdfsP3k
+    * https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-no-ubuntu-18-04-pt
+  * Windows: 
+    * https://www.youtube.com/watch?v=Y5iUfodednY
+    * https://www.youtube.com/watch?v=Wp6uS7CmivE
+    * https://java.com/en/download/help/windows_manual_download.xml
+
+  * Mac: https://www.youtube.com/watch?v=28Hrvrzg3Q0
+* Tutoriais:
+  * Tutorialspoint: https://www.tutorialspoint.com/java/index.htm
+  * w3schools: https://www.w3schools.com/java/default.asp
+  * Oracle: https://docs.oracle.com/javase/tutorial/
+  * Programiz: https://www.programiz.com/java-programming
+* Exemplos de Código:
+  * Programiz: https://www.programiz.com/java-programming/examples
+  * W3schools: https://www.w3schools.com/java/java_examples.asp
+* Desafios:
+  * CodingBat: https://codingbat.com/java
+  * Code Exercises: https://code-exercises.com/
+* Outros recursos:
+  * Code Academy: https://www.codecademy.com/learn/learn-java
+  * freeCodeCamp: https://guide.freecodecamp.org/java/
+  * The Algorithms: https://github.com/TheAlgorithms/Java
+  * binder (java jupyter notebook): https://hub.gke.mybinder.org/user/spencerpark-ijava-binder-t3g52phw/notebooks/HelloWorld.ipynb
+  * Aulas de professores:
+    * Pedro Ribeiro (DCC/FCUP):
+      * Ano 18/19 (ainda disponíveis): https://www.dcc.fc.up.pt/~pribeiro/aulas/edados1819/apoio.html#slides
+      * Ano 19/20 (nesta página o docente disponibiliza videos de aulas devido à situação corrente relativa ao COVID-19): 
+        * https://www.dcc.fc.up.pt/~pribeiro/aulas/edados1920/apoio.html#slides
+        * https://www.dcc.fc.up.pt/~pribeiro/aulas/edados1920/videos/index.html (videos)
+  * Youtube:
+    * Derek banas:
+      * Java Tutorial saga https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19
+      * Learn Java in one video: https://www.youtube.com/watch?v=n-xAqcBCws4
+
 
 
