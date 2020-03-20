@@ -7,7 +7,8 @@
 4.  [Overload](#Overload) 
 5.  [Comparação de objetos](#Comparação-de-objetos)
 6.  [Variáveis e métodos static](#Variáveis-e-métodos-static) 
-7.  [Conceitos](#Conceitos)
+7.  [This](#This)
+8.  [Conceitos](#Conceitos)
 
 
 ## Introdução:
@@ -215,6 +216,24 @@ public class TestaAluno{
     }
 }
 ```
+## This
+&nbsp;&nbsp;&nbsp;&nbsp;Este operador referencia a própria instância de um objeto, é utilizado para desambiguar referências.
+```Java
+class Aluno{
+    String nome;
+    String numero_mecanografico;
+
+    //Construtor que recebe parâmetros do aluno e coloca nos atributos
+    Aluno(String nome, String numero_mecanografico){
+        this.nome = nome;
+        this.numero_mecanografico = numero_mecanografico
+    }
+
+    //Método getters para nome e numero
+    String getNome(){return this.nome;}
+    String getNumero(){return this.numero_mecanografico;}
+}
+```
 
 
 ## Conceitos
@@ -229,4 +248,5 @@ public class TestaAluno{
 | construtor      | Método base de classe, chamado com new                    |
 | overload        | Métodos com mesmo nome mas argumentos diferentes          |
 | static          | Torna método/atributo acessível a todos objetos da classe |
+| this            | Referência à própria instância do objeto                  |
 
