@@ -2,10 +2,10 @@
 **Objetivo**: O objetivo deste workshop é fornecer uma ferramenta na aprendizagem da LP Java, irá incidir em conceitos menos introdutórios na linguagem.
 
 ## Contúdo:
-1. [O que não vamos cobrir](##O que não vamos cobrir)
+   1. [O que não vamos cobrir](#O-que-não-vamos-cobrir)
 
 
-   1.1 [Notas adicionais](##Nota)
+   1.1 [Notas adicionais](#Nota)
 ## O que não vamos cobrir
 Dado ao tempo do workshop, o público alvo e a posição do workshop no semestre, não vão ser cobertos os seguintes tópicos:
 *    História do Java
