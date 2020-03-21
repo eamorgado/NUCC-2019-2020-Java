@@ -102,7 +102,7 @@ Ficam aqui alguns recursos:
   * [Code Academy](https://www.codecademy.com/learn/learn-java)
   * [freeCodeCamp](https://guide.freecodecamp.org/java/)
   * [The Algorithms](https://github.com/TheAlgorithms/Java)
-  * [binder (java jupyter notebook)](https://hub.gke.mybinder.org/user/spencerpark-ijava-binder-t3g52phw/notebooks/HelloWorld.ipynb)
+  * [java jupyter notebook](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master)
   * Aulas de professores:
     * Pedro Ribeiro (DCC/FCUP):
       * [Ano 18/19 (ainda disponíveis)](https://www.dcc.fc.up.pt/~pribeiro/aulas/edados1819/apoio.html#slides)
