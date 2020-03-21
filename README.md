@@ -46,14 +46,14 @@ já foram abordados tanto em aulas teóricas como práticas
 
 ## O que vamos cobrir:
 *  Documentação (básico, @param, @return,...) 
-*  Arrays **done**
-*  Ciclos (while, for, do while, foreach)  **done**
-*  Controlo de fluxo (if, if else, if else if, switch, operador ternário) **done**
+*  Arrays 
+*  Ciclos (while, for, do while, foreach)  
+*  Controlo de fluxo (if, if else, if else if, switch, operador ternário) 
 *  Modificadores de controlo de acesso (public, private, protected)
-*  Métodos **done**
+*  Métodos 
 *  Recursão
-*  Objectos e classes (construtores, criação, acesso, importações) **done**
-*  Instanciamento (static, this, new) **done**
+*  Objectos e classes (construtores, criação, acesso, importações) 
+*  Instanciamento (static, this, new) 
 *  Programação orientada a objectos
 *  Estruturas de dados:
    *  Listas
