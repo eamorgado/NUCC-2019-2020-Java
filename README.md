@@ -29,7 +29,8 @@
 *    I/O (Scanner)
 
 ### Nota
-1.  Todos estes temas, para alunos que estejam a frequentar Estruturas de Dados e Arquitetura de Software já foram abordados tanto em aulas teóricas como práticas
+1.  Todos estes temas, para alunos que estejam a frequentar Estruturas de Dados 
+já foram abordados tanto em aulas teóricas como práticas
 
 2.  Caso desejem abordar estes temas, todos os links de tutoriais na secção de recursos apresentam explicações
 3.  Quem não tiver máquina pessoal com java instalado pode utilizar as máquinas no laboratório
