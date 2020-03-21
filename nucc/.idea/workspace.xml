@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nucc:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="77b5d075-efc7-4627-9012-9642df65bb99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Board/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Board/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Board/BoardLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Board/BoardLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Player/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Player/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Ships/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/Ships/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nucc/BattleShip/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nucc/BattleShip/Game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/kite_tutorial.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Ships/Ship.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,28 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Ships/TypeShips.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nucc/Games/BattleShip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Game/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="323">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding>
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#229#230#0" expanded="true" />
@@ -64,10 +51,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nucc.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="38" column="83" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
+            <state relative-caret-position="178">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/ImageFields/ShipImageField.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/WaterObjectField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/ShipImageField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/GameObjectField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -75,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Board/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+            <state relative-caret-position="266">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -85,16 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Board/BoardLogic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-255">
-              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Validators/Validator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -116,12 +131,12 @@
         <option value="$PROJECT_DIR$/src/nucc/BattleShip/Board/BoardLogic.java" />
         <option value="$PROJECT_DIR$/src/nucc/BattleShip/Ships/Ship.java" />
         <option value="$PROJECT_DIR$/src/nucc/BattleShip/Board/Board.java" />
-        <option value="$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java" />
         <option value="$PROJECT_DIR$/src/nucc/BattleShip/Game/Game.java" />
+        <option value="$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1899" />
     <option name="width" value="1953" />
     <option name="height" value="2178" />
@@ -149,6 +164,19 @@
               <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
               <item name="nucc" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="nucc_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,6 +193,25 @@
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="nucc" type="462c0819:PsiDirectoryNode" />
               <item name="nucc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="nucc" type="462c0819:PsiDirectoryNode" />
+              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageFields" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
@@ -199,39 +246,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nucc" type="462c0819:PsiDirectoryNode" />
               <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
-              <item name="Board" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
-              <item name="Player" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
-              <item name="Ships" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nucc" type="462c0819:PsiDirectoryNode" />
-              <item name="BattleShip" type="462c0819:PsiDirectoryNode" />
-              <item name="Validators" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageFields" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nucc" type="b2602c69:ProjectViewProjectNode" />
@@ -250,10 +265,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584790206958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584791017698" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -303,12 +321,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584786953141</updated>
-      <workItem from="1584786959386" duration="2735000" />
+      <workItem from="1584786959386" duration="3524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2735000" />
+    <option name="totallyTimeSpent" value="3524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="972" extended-state="6" />
@@ -320,7 +338,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.249549" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.249549" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -330,7 +348,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.46975088" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.46975088" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -363,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/src/nucc/Games/BattleShip.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -387,28 +405,17 @@
     <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Board/BoardLogic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Board/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="38" column="83" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/nucc.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Game/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="323">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding>
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
@@ -416,5 +423,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/nucc/nucc/BattleShip/ImageFields/ShipImageField.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/WaterObjectField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/ShipImageField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/ImageFields/GameObjectField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nucc/BattleShip/Player/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>nucc:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nucc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

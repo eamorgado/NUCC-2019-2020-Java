@@ -38,7 +38,7 @@ public class HumanPlayer implements PlayerInterface{
             try {
                 System.out.print("Enter coordinates for attack (format A...J 1...10): ");
                 int y = board.indexOf(board.getLetters(),scan.next().charAt(0));
-                int x = scan.nextInt();
+                int x = scan.nextInt() - 1; scan.nextLine();
                 try {
                     Point point = new Point(x,y);
                     x = (int)point.getX();

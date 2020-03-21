@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nucc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nucc_jar</output-path>
+    <root id="archive" name="nucc.jar">
+      <element id="module-output" name="nucc" />
+    </root>
+  </artifact>
+</component>
