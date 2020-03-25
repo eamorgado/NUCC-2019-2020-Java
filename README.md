@@ -29,7 +29,8 @@
 *    I/O (Scanner)
 
 ### Nota
-1.  Todos estes temas, para alunos que estejam a frequentar Estruturas de Dados e Arquitetura de Software já foram abordados tanto em aulas teóricas como práticas
+1.  Todos estes temas, para alunos que estejam a frequentar Estruturas de Dados 
+já foram abordados tanto em aulas teóricas como práticas
 
 2.  Caso desejem abordar estes temas, todos os links de tutoriais na secção de recursos apresentam explicações
 3.  Quem não tiver máquina pessoal com java instalado pode utilizar as máquinas no laboratório
@@ -45,14 +46,14 @@
 
 ## O que vamos cobrir:
 *  Documentação (básico, @param, @return,...) 
-*  Arrays **done**
-*  Ciclos (while, for, do while, foreach)  **done**
-*  Controlo de fluxo (if, if else, if else if, switch, operador ternário) **done**
+*  Arrays 
+*  Ciclos (while, for, do while, foreach)  
+*  Controlo de fluxo (if, if else, if else if, switch, operador ternário) 
 *  Modificadores de controlo de acesso (public, private, protected)
-*  Métodos **done**
+*  Métodos 
 *  Recursão
-*  Objectos e classes (construtores, criação, acesso, importações) **done**
-*  Instanciamento (static, this, new) **done**
+*  Objectos e classes (construtores, criação, acesso, importações) 
+*  Instanciamento (static, this, new) 
 *  Programação orientada a objectos
 *  Estruturas de dados:
    *  Listas
@@ -101,7 +102,7 @@ Ficam aqui alguns recursos:
   * [Code Academy](https://www.codecademy.com/learn/learn-java)
   * [freeCodeCamp](https://guide.freecodecamp.org/java/)
   * [The Algorithms](https://github.com/TheAlgorithms/Java)
-  * [binder (java jupyter notebook)](https://hub.gke.mybinder.org/user/spencerpark-ijava-binder-t3g52phw/notebooks/HelloWorld.ipynb)
+  * [java jupyter notebook](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master)
   * Aulas de professores:
     * Pedro Ribeiro (DCC/FCUP):
       * [Ano 18/19 (ainda disponíveis)](https://www.dcc.fc.up.pt/~pribeiro/aulas/edados1819/apoio.html#slides)
