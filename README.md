@@ -59,11 +59,10 @@ já foram abordados tanto em aulas teóricas como práticas
    *  Listas
    *  Filas
    *  Pilhas
-   *  Dicionários
    *  Hashtables
    *  Conjuntos
-*  Incorporação dos conceitos abordados na implementação de uma aplicação java (um RPG por exemplo)
-*  Exceções (try,catch,finally -- se houver tempo)
+*  Exceções (try,catch,finally)
+*  Incorporação dos conceitos abordados na implementação de uma aplicação java (um jogo de Battleship por exemplo)
 *  File I/O (se houver tempo e se conseguir arranjar bons exemplos)
 *  GUI (também é pouco provável com o tempo que temos)
 
