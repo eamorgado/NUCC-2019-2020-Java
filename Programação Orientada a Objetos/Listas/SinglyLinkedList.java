@@ -40,13 +40,18 @@ public class SinglyLinkedList<T>{
         size++;
     }
 
+    public void removeFirst(){
+        if(isEmpty()) return;
+        first = first.getNext();
+        size--;
+    }
     public void removeLast(){
         if(isEmpty()) return;
         if(size == 1) first = null;
         else{
             Node<T> cur = first;
             for(int i = 0; i < size - 2; i++) cur = cur.getNext();
-            cur.setNext(cur.getNext().getNext())
+            cur.setNext(cur.getNext().getNext());
         } 
         size--;
     }
