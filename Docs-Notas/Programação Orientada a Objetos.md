@@ -136,7 +136,7 @@ class Docente extends Cidadao{
 
 &nbsp;&nbsp;&nbsp;&nbsp;Os modificadores podem ser divididos em dois tipos, iremos focar nos **modificadores de acesso**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Existem 4 tripos de modificadores, sendo que apenas dois podem ser utilizados em classes (public e default)., esses modificadores são:
+&nbsp;&nbsp;&nbsp;&nbsp;Existem 4 tipos de modificadores, sendo que apenas dois podem ser utilizados em classes (public e default)., esses modificadores são:
 *   **public**: Código é acessível por qualquer classe
 *   **private**: Código apenas é acessível à classe que possui o método/atributo
 *   **protected**: Código é acessível a classes no mesmo **package** ou a subclasses
