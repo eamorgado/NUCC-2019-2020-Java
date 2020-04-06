@@ -268,3 +268,12 @@ enum DiasSemana{
     @Override
     public String toString(){return "["+this.dia+","+this.num_dia+"]";}
 }
+```
+&nbsp;&nbsp;&nbsp;&nbsp;Neste exemplo estamos a definir atributos e métodos para o enum, ao enunciar a constante, estamos também a chamar o construtor. Dessa forma, podemos aumentar a complexidade das constantes e a funcionalidade do objeto.
+
+```java
+DiasSemana dia = DiasSemana.SEG;
+System.out.println(dia); //[Segunda,1]
+System.out.println(dia.getDia()); //Segunda
+System.out.println(dia.getNumDia()); //1
+```
