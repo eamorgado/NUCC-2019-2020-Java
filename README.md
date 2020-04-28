@@ -1,5 +1,5 @@
 # NUCC - Workshop de Java (2019/2020) -- Outline e Recursos
-   **Objetivo**: O objetivo deste workshop é fornecer uma ferramenta na aprendizagem da LP Java, irá incidir em conceitos menos introdutórios na linguagem.
+   **Objetivo**: O objetivo deste workshop é fornecer uma ferramenta na aprendizagem da LP [Java](https://howtodoinjava.com/java/basics/what-is-java-programming-language/), irá incidir em conceitos menos introdutórios na linguagem.
    
 **Nota**: Os documentos as notas podem ser encontrados na pasta [Doc-Notas](https://github.com/eamorgado/NUCC-2019-2020-Java/tree/master/Docs-Notas), ou seguindo os links na secção de conteúdo
 
