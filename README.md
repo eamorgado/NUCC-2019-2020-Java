@@ -51,7 +51,6 @@ já foram abordados tanto em aulas teóricas como práticas
 *  Controlo de fluxo (if, if else, if else if, switch, operador ternário) 
 *  Modificadores de controlo de acesso (public, private, protected)
 *  Métodos 
-*  Recursão
 *  Objectos e classes (construtores, criação, acesso, importações) 
 *  Instanciamento (static, this, new) 
 *  Programação orientada a objectos
