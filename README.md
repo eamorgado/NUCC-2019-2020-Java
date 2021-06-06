@@ -3,6 +3,8 @@
    
 **Nota**: Os documentos as notas podem ser encontrados na pasta [Doc-Notas](https://github.com/eamorgado/NUCC-2019-2020-Java/tree/master/Docs-Notas), ou seguindo os links na secção de conteúdo
 
+**Nota**: Este workshop também esta disponível no nosso canal do youtube do NUCC [nesta playlist](https://www.youtube.com/playlist?list=PLo7YgrUQVxvU3KfzIctBhIpaTMynSEOzf)
+
 ## Contúdo:
    1. [O que não vamos cobrir](#O-que-não-vamos-cobrir)  
        1.1 [Notas adicionais](#Nota)     
